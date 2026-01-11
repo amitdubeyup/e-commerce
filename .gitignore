@@ -1,0 +1,25 @@
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+logs/
+*.log
+
+# Build outputs
+dist/
+build/
+out/
+
+# Misc
+.cache/
+.temp/
+.tmp/
