@@ -2,24 +2,53 @@
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
-## 📝 Description
-- Modern and scalable architecture
+## 👤 Author
+**Amit Dubey**  
+*Full-Stack Architect & Fintech Specialist*  
+[Portfolio](https://amitdubey.me) | [GitHub](https://github.com/amitdubeyup) | [Email](mailto:amitdubeycs88@gmail.com)
 
-## 🚀 Technology Stack
-- **Primary**: PHP
+---
 
-## 🛠️ Installation & Setup
-1. Clone the repository:
+## 📝 About The Project
+A professional **PHP** project built to solve real-world problems. This repository serves as a reference implementation for customizable and scalable software solutions.
+
+This project is maintained by **Amit Dubey** and reflects modern engineering practices, focusing on scalability, code readability, and performance.
+
+## 🚀 Key Features
+- **Clean Architecture**
+- **Modular Codebase**
+- **Server-side Rendering**
+
+## 🛠️ Technology Stack
+- **Core**: PHP
+- **Infrastructure**: Git, GitHub Actions (CI/CD)
+
+## 📦 Installation & Usage
+
+1. **Clone the repository**
    ```bash
    git clone git@github.com:amitdubeyup/php-ecommerce-platform.git
    ```
-2. Navigate to the directory:
+
+2. **Navigate to directory**
    ```bash
    cd php-ecommerce-platform
    ```
 
-## 📄 License
-This project is licensed under the MIT License.
+3. **Install Dependencies (if applicable)**
+   ```bash
+   # For Node.js
+   npm install
+   
+   # For Python
+   # pip install -r requirements.txt
+   ```
 
---- 
-*Generated and maintained as part of the digital portfolio synchronization.*
+4. **Run the Application**
+   ```bash
+   # Check package.json scripts or run directly
+   npm start
+   ```
+
+## 📄 License
+This project is licensed under the **MIT License**.
